@@ -38,7 +38,7 @@ Resource pack introducing animated ores to the world of Minecraft. They offer su
 </details>
 <hr>
 
-Shaders that I have tested and work with my resource pack, if you have a shader that works with my resource pack create an issue [here](https://github.com/raspberrygitq/Animated-Ore-x-IntegratedPBR/issues).
+Shaders that I have tested and work with my resource pack, if you have a shader that works with my resource pack create an issue [here](https://github.com/raspberrygitq/Animated-Ore-x-LabPBR/issues).
 <hr>
 
 ![](https://i.imgur.com/XGS8oz4.gif)
